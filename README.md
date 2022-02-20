@@ -1,7 +1,5 @@
 # gnoahg
 
-[![noah](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/gnoahg)
-
 ## About me
 Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and Typescript.
 
