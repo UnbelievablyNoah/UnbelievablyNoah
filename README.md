@@ -9,7 +9,7 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 </p>
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=gnoahg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=gnoahg&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=gnoahg&show_icons=true&locale=en&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gnoahg&show_icons=true&locale=en&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
