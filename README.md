@@ -11,7 +11,7 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=gnoahg&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gnoahg&show_icons=true&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=gnoahg&show_icons=true&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## :trophy: Git profile Trophies
