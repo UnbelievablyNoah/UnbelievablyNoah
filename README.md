@@ -1,7 +1,3 @@
-[![discord:status](https://dev.discordprofiles.me/badge/status/660930457575096330)](https://discord.com/users/660930457575096330)
-[![discord:playing](https://dev.discordprofiles.me/badge/playing/660930457575096330)](https://discord.com/users/660930457575096330)
-[![discord:vscode](https://dev.discordprofiles.me/badge/vscode/660930457575096330)](https://discord.com/users/660930457575096330)
-[![discord:spotify](https://dev.discordprofiles.me/badge/spotify/660930457575096330)](https://dev.discordprofiles.me/openspotify/660930457575096330)
 
 # gnoahg
 
