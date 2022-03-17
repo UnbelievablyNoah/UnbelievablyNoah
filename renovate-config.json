@@ -1,0 +1,18 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"extends": ["config:base", "helpers:pinGitHubActionDigests", "group:allNonMajor", ":semanticCommits", ":semanticCommitTypeAll(chore)"],
+	"schedule": ["before 12pm on Sunday"],
+	"npm": {
+		"rangeStrategy": "bump",
+		"packageRules": [
+			{
+				"matchPackagePatterns": ["ansi-regex"],
+				"allowedVersions": "^5"
+			},
+			{
+				"matchPackagePatterns": ["@types/node-fetch"],
+				"allowedVersions": "^2"
+			}
+		]
+	}
+}
