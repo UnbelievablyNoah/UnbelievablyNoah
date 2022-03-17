@@ -1,3 +1,4 @@
+<a href="https://discord.com/users/660930457575096330"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/660930457575096330"></a>
 
 # gnoahg
 
