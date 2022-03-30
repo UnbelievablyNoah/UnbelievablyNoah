@@ -7,6 +7,8 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 
 <p align="left">
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />
+    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />
+    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/typescript.svg" />
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/json.svg" />
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/markdown.svg" />
