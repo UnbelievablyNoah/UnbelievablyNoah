@@ -2,9 +2,12 @@
 
 # gnoahg
 
-## About me
+## :pencil: About me
 Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and Typescript.
 
+---
+
+## :globe_with_meridians: Languages I use 
 <p align="left">
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />
@@ -16,13 +19,17 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg" />
 </p>
 
+---
+
+## :chart_with_upwards_trend: My Github user statistics
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=gnoahg&show_icons=true&theme=algolia&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gnoahg&show_icons=true&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnoahg&langs_count=10&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnoahg&layout=compact&theme=algolia" alt="gnoahg" /></a> </p>
 
