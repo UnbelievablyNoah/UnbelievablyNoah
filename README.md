@@ -14,9 +14,21 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/typescript.svg" />
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/json.svg" />
+    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/go.svg" />
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/markdown.svg" />
+</p>
+
+---
+
+## 🧰 Tools I use 
+<p align="left">
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/docker.svg" />
     <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg" />
+    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg" />
+    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" />
+
+
+
 </p>
 
 ---
