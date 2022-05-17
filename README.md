@@ -45,3 +45,6 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnoahg&layout=compact&theme=algolia" alt="gnoahg" /></a> </p>
 
+---
+
+> All systems coded by [Itz_gNoah](https://github.com/gnoahg).
