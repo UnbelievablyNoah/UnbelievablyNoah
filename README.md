@@ -49,7 +49,7 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 
 ## 🌟 *Almost* Live statistics 
 
-[![gnoahg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnoahg)](https://wakatime.com/@gnoahg)
+[![gnoahg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnoahg&theme=algolia&locale=en)](https://wakatime.com/@gnoahg)
 
 ---
 
