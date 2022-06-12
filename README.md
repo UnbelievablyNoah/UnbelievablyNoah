@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/660930457575096330"><img align="right" src="https://lanyard.cnrad.dev/api/660930457575096330?idleMessage=Doing%20something%20else%20right%20now..."></a>
+<a href="https://discord.com/users/660930457575096330"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/660930457575096330?idleMessage=Doing%20something%20else%20right%20now..."></a>
 
 # gnoahg
 
