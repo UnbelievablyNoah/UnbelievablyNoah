@@ -5,6 +5,8 @@
 ## :pencil: About me
 Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and Typescript.
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7E7EFE&lines=It+smells+like+you+farted+(farted).;Either+you're+a+smart+fella%2C+or+a+fart+smella.;why+are+you+still+looking+here)](https://git.io/typing-svg)
+
 ---
 
 ## :globe_with_meridians: Languages I use 
