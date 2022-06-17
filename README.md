@@ -10,28 +10,13 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 ---
 
 ## :globe_with_meridians: Languages I use 
-<p align="left">
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/typescript.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/json.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/go.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/markdown.svg" />
-</p>
+[![Languages I use](https://skillicons.dev/icons?i=js,html,css,md,lua,nodejs,go,ts)](https://skillicons.dev)
+
 
 ---
 
 ## 🧰 Tools I use 
-<p align="left">
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/docker.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/npm.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg" />
-    <img height="28" width="28" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" />
-
-
-
-</p>
+[![Tools I use](https://skillicons.dev/icons?i=heroku,github,git,figma,express,docker)](https://skillicons.dev)
 
 ---
 
