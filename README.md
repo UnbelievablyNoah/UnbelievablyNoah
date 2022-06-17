@@ -16,7 +16,7 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 ---
 
 ## 🧰 Tools I use 
-[![Tools I use](https://skillicons.dev/icons?i=heroku,github,git,figma,express,docker)](https://skillicons.dev)
+[![Tools I use](https://skillicons.dev/icons?i=heroku,github,git,mongodb,figma,express,docker)](https://skillicons.dev)
 
 ---
 
