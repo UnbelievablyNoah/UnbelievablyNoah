@@ -21,22 +21,22 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 ---
 
 ## :chart_with_upwards_trend: My Github user statistics
-[![Github Statistics](https://github-readme-stats.vercel.app/api?username=gnoahg&show_icons=true&theme=algolia&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gnoahg&show_icons=true&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=gnoahg&show_icons=true&theme=dracula&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gnoahg&show_icons=true&locale=en&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnoahg&langs_count=10&locale=en&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnoahg&langs_count=10&locale=en&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnoahg&layout=compact&theme=algolia" alt="gnoahg" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnoahg&layout=compact&theme=dracula" alt="gnoahg" /></a> </p>
 
 ---
 
 ## 🌟 *Almost* Live statistics 
 
-[![gnoahg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnoahg&theme=algolia&locale=en)](https://wakatime.com/@gnoahg)
+[![gnoahg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnoahg&theme=dracula&locale=en)](https://wakatime.com/@gnoahg)
 
 ---
 
