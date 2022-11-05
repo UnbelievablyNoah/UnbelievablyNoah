@@ -22,16 +22,16 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 ---
 
 ## :chart_with_upwards_trend: My Github user statistics
-[![Github Statistics](https://github-readme-stats.vercel.app/api?username=gnoahg&show_icons=true&theme=dracula&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gnoahg&show_icons=true&locale=en&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=UnbelievablyNoah&show_icons=true&theme=dracula&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=UnbelievablyNoah&show_icons=true&locale=en&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnoahg&langs_count=10&locale=en&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UnbelievablyNoah&langs_count=10&locale=en&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnoahg&layout=compact&theme=dracula" alt="gnoahg" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UnbelievablyNoah&layout=compact&theme=dracula" alt="UnbelievablyNoah" /></a> </p>
 
 ---
 
@@ -41,4 +41,4 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 
 ---
 
-> All systems coded by [Itz_gNoah](https://github.com/gnoahg).
+> All systems coded by [Itz_gNoah](https://github.com/UnbelievablyNoah).
