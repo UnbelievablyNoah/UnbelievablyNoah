@@ -16,7 +16,7 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 
 ---
 
-## 🧰 Tools I use 
+##  Tools I use 
 [![Tools I use](https://skillicons.dev/icons?i=heroku,github,git,mongodb,nextjs,vercel,figma,express,docker)](https://skillicons.dev)
 
 ---
@@ -32,12 +32,6 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UnbelievablyNoah&layout=compact&theme=dracula" alt="UnbelievablyNoah" /></a> </p>
-
----
-
-## 🌟 *Almost* Live statistics 
-
-[![gnoahg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnoahg&theme=dracula&locale=en)](https://wakatime.com/@gnoahg)
 
 ---
 
