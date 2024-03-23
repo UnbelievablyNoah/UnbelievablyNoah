@@ -1,6 +1,4 @@
-<a href="https://discord.com/users/660930457575096330"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/660930457575096330?idleMessage=Doing%20something%20else%20right%20now...&hideBadges=false"></a>
-
-# UnbelievablyNoah
+# [UnbelievablyNoah](https://https://noah.unbelievablynoah.xyz/)
 ### *Formerly `gnoahg`*
 
 ## :pencil: About me
@@ -35,4 +33,4 @@ Hi, I'm noah. A 14 year old programer. I like to code in mainly Javascript and T
 
 ---
 
-> All systems coded by [Itz_gNoah](https://github.com/UnbelievablyNoah).
+> All systems coded by [UnbelievablyNoah](https://noah.unbelievablynoah.xyz/).
