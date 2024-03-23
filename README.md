@@ -1,4 +1,4 @@
-# [UnbelievablyNoah](https://https://noah.unbelievablynoah.xyz/)
+# [UnbelievablyNoah](https://noah.unbelievablynoah.xyz/)
 ### *Formerly `gnoahg`*
 
 ## :pencil: About me
